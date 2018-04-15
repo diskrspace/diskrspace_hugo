@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "http://diskr.space"
 title = "DiskrSpace"
 # for smart copyright line, leave this blank and check [params.copyright]
 author = "raptorz"
