@@ -1,7 +1,6 @@
 baseURL = "http://www.example.com"
 title = "DiskrSpace"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
 author = "raptorz"
 theme = "learn"
 copyright = "Copyright (c) 2018, diskr.space; all rights reserved."
