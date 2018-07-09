@@ -2,6 +2,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 themes/
-public/
+public
 *.swp
 .DS_Store
