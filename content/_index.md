@@ -5,3 +5,5 @@ draft: false
 ---
 
 Diskr.Space is a manangement tool for a lot of files on disks.
+
+Source code: [https://github.com/diskrspace/diskr.space](https://github.com/diskrspace/diskr.space)
