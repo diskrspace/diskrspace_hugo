@@ -5,3 +5,5 @@ draft: false
 ---
 
 The official website for Diskr.Space is online today.
+
+2018-04-15
