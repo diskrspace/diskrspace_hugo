@@ -3,7 +3,7 @@ title = "DiskrSpace"
 # for smart copyright line, leave this blank and check [params.copyright]
 author = "raptorz"
 theme = "learn"
-copyright = "Copyright (c) 2018, diskr.space; all rights reserved."
+copyright = "Copyright (c) 2018-19, diskr.space; all rights reserved."
 canonifyurls = true
 paginate = 3
 
